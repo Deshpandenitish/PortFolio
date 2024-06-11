@@ -153,7 +153,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "nitishdeshpande630@gmail.com",
-    YOUR_FONE: "(890)428-7821",
+    YOUR_FONE: "(890)428-7494",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
