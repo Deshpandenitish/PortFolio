@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "Nitish";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Nitish",
+    description: "I’m Nitish Dot Net _ Full stack devloper,currently working in Bangalore",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Nitish",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "a bit about my self",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
@@ -37,11 +37,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Dot Net",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Dot Net Core",
         value: 85,
     },
     {
@@ -53,21 +53,37 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "REST API",
         value: 85,
     },
+    {
+        name: "NHibernate",
+        value: 85,
+    },
+    {
+        name: "EFCore",
+        value: 85,
+    },
+    {
+        name: "MicroServices",
+        value: 85,
+    },
+    {
+        name: "Dapper",
+        value: 85,
+    }
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "Back End Developer and Architect",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "Dot Net Full Stack using ASP.NET",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "React Developer",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -136,8 +152,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "nitishdeshpande630@gmail.com",
+    YOUR_FONE: "(890)428-7821",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,10 +163,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Deshpandenitish",
+    // facebook: "https://facebook.com",
+    linkedin: "https://www.linkedin.com/in/nitish-deshpande-59230a13a/",
+    // twitter: "https://twitter.com",
 };
 export {
     meta,
